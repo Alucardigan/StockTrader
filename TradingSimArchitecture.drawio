@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.0.7">
+  <diagram name="Page-1" id="HZzGdIYL1d7pboFqSBVi">
+    <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U-cLGu7goYh9UaNrOr1q-1" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="160" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U-cLGu7goYh9UaNrOr1q-2" value="Frontend" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="160" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U-cLGu7goYh9UaNrOr1q-3" value="&lt;div&gt;Responsibility:&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- get real time data&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- place trade orders&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- implement authentication&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- real time market analysis&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="260" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="U-cLGu7goYh9UaNrOr1q-4" value="&lt;div&gt;Responsibility:&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Display data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="520" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
